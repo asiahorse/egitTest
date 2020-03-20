@@ -5,5 +5,6 @@ public class TestEgit {
 		System.out.println("hello egit");
 		System.out.println("hello egit6666666");
 		System.out.println("hello egit88888");
+		System.out.println("hello egit7777");
 	}
 }
